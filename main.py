@@ -3,8 +3,8 @@ import cv2
 import time
 
 # Load the cascade
-smile_cascade = cv2.CascadeClassifier("haarcascade_smile.xml")
-face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+smile_cascade = cv2.CascadeClassifier("abdoulahi Sani Adamou_smile.xml")
+face_cascade = cv2.CascadeClassifier("abdoulahi Sani Adamou_frontalface_default.xml")
 
 # To capture video from webcam.
 video = cv2.VideoCapture(0)
